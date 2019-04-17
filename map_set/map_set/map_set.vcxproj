@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{A3DB1E1D-4B41-402D-BC99-FC99CD861E56}</ProjectGuid>
-    <RootNamespace>map</RootNamespace>
+    <ProjectGuid>{7612734A-F4B1-458A-986A-05FFCD31CECE}</ProjectGuid>
+    <RootNamespace>map_set</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -64,7 +64,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="a.cpp" />
+    <ClCompile Include="map.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
