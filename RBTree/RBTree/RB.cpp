@@ -310,7 +310,7 @@ private:
 };
 
 
-void TestRBTree()
+void TestRBTree() 
 {
 	int a[] = { 5, 3, 15, 10, 8, 7, 17, 16 };
 	RBTree<int, int> rt;
