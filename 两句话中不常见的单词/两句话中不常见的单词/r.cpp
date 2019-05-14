@@ -37,6 +37,12 @@ public:
 };
 int main()
 {
+	Solution s;
+	string A = "i am apple";
+	string B = "i am a";
+	vector<string> v=s.uncommonFromSentences(A, B);
+	for (auto &e : v)
+		cout << e << endl;
 	system("pause");
 	return 0;
 }
