@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "被包围的区域", "被包围的区域\被包围的区域.vcxproj", "{61F1BBDD-12F8-41BC-A9C8-2AB3C71FD42E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61F1BBDD-12F8-41BC-A9C8-2AB3C71FD42E}.Debug|Win32.ActiveCfg = Debug|Win32
+		{61F1BBDD-12F8-41BC-A9C8-2AB3C71FD42E}.Debug|Win32.Build.0 = Debug|Win32
+		{61F1BBDD-12F8-41BC-A9C8-2AB3C71FD42E}.Release|Win32.ActiveCfg = Release|Win32
+		{61F1BBDD-12F8-41BC-A9C8-2AB3C71FD42E}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
