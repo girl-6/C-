@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "58：以字母d或e结尾的单词出现的次数", "58：以字母d或e结尾的单词出现的次数\58：以字母d或e结尾的单词出现的次数.vcxproj", "{3EC1B037-8B84-4F23-AA5E-1E8ECA91F408}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3EC1B037-8B84-4F23-AA5E-1E8ECA91F408}.Debug|Win32.ActiveCfg = Debug|Win32
+		{3EC1B037-8B84-4F23-AA5E-1E8ECA91F408}.Debug|Win32.Build.0 = Debug|Win32
+		{3EC1B037-8B84-4F23-AA5E-1E8ECA91F408}.Release|Win32.ActiveCfg = Release|Win32
+		{3EC1B037-8B84-4F23-AA5E-1E8ECA91F408}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
